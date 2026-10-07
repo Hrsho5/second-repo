@@ -1,4 +1,4 @@
 # second-repo
 This is my second repository.
 <br>
-Author - Harsh Gujarathi
+Author - Harsh (Gujarathi)
